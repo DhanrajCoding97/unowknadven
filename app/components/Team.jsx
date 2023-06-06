@@ -10,6 +10,7 @@ const Team = () => {
                 <div className='w-[290px] bg-white flex flex-col justify-center items-center rounded-[50px] shadow-lg shadow-lime-300'> 
                         <Image 
                         src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                        alt='Rohit'
                         width={0}
                         height={0}
                         sizes="100vw"
@@ -27,6 +28,7 @@ const Team = () => {
                 <div className='w-[290px] bg-white flex flex-col justify-center items-center rounded-[50px] shadow-lg shadow-lime-300'> 
                         <Image 
                         src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                        alt='Viren'
                         width={0}
                         height={0}
                         sizes="100vw"
@@ -42,6 +44,7 @@ const Team = () => {
                 <div className='w-[290px] bg-white flex flex-col justify-center items-center rounded-[50px] shadow-lg shadow-lime-300'> 
                         <Image 
                         src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                        alt='Swapnil'
                         width={0}
                         height={0}
                         sizes="100vw"
@@ -59,6 +62,7 @@ const Team = () => {
                 <div className='w-[290px] bg-white flex flex-col justify-center items-center rounded-[50px] shadow-lg shadow-lime-300'> 
                         <Image 
                         src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                        alt='Ibrahim'
                         width={0}
                         height={0}
                         sizes="100vw"

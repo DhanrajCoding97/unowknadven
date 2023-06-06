@@ -8,6 +8,7 @@ const About = () => {
             <Image 
                 className='row-span-3 object-cover w-full h-full p-2 transition duration-300 ease-in-out hover:scale-110 rounded-xl'
                 src="https://images.pexels.com/photos/5195493/pexels-photo-5195493.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                alt='gallery-image1'
                 width={0}
                 height={0}
                 sizes="100vw"
@@ -16,6 +17,7 @@ const About = () => {
             <Image 
                 className='row-span-2 object-cover w-full h-full p-2 transition duration-300 ease-in-out hover:scale-110 rounded-xl'
                 src="https://images.pexels.com/photos/14604046/pexels-photo-14604046.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                alt='gallery-image2'
                 width={0}
                 height={0}
                 sizes="100vw"
@@ -24,6 +26,7 @@ const About = () => {
             <Image 
                 className='row-span-2 object-cover w-full h-full p-2 transition duration-300 ease-in-out hover:scale-110 rounded-xl'
                 src="https://images.pexels.com/photos/1497585/pexels-photo-1497585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                alt='gallery-image3'
                 width={0}
                 height={0}
                 sizes="100vw"
@@ -32,6 +35,7 @@ const About = () => {
             <Image 
                 className='row-span-3 object-cover w-full h-full p-2 transition duration-300 ease-in-out hover:scale-110 rounded-xl'
                 src="https://images.pexels.com/photos/15804646/pexels-photo-15804646/free-photo-of-people-on-a-motorbike-on-a-mountain-road.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                alt='gallery-image4'
                 width={0}
                 height={0}
                 sizes="100vw"
@@ -40,6 +44,7 @@ const About = () => {
             <Image 
                 className='row-span-2 object-cover w-full h-full p-2 transition duration-300 ease-in-out hover:scale-110 rounded-xl'
                 src="https://images.pexels.com/photos/3687139/pexels-photo-3687139.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+                alt='gallery-image5'
                 width={0}
                 height={0}
                 sizes="100vw"
